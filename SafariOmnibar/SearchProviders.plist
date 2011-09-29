@@ -6,16 +6,6 @@
 	<array>
 		<dict>
 			<key>Name</key>
-			<string>Google</string>
-			<key>Keyword</key>
-			<string>g</string>
-			<key>Default</key>
-			<false/>
-			<key>SearchURLTemplate</key>
-			<string>http://www.google.com/search?client=safari&amp;amp;rls=en&amp;amp;q={searchTerms}&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8</string>
-		</dict>
-		<dict>
-			<key>Name</key>
 			<string>Duck Duck Go</string>
 			<key>Keyword</key>
 			<string>ddg</string>
